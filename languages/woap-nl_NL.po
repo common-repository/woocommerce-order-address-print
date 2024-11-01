@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order address Print\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jul 06 2015 17:47:18 GMT+0530 (IST)\n"
+"PO-Revision-Date: Tue Jul 07 2015 11:26:04 GMT+0530 (IST)\n"
+"Last-Translator: admin <programmer6@dynamicdreamz.com>\n"
+"Language-Team: \n"
+"Language: Dutch\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: nl_NL"
+
+#: ../class-wc-dependencies.php:43
+#, php-format
+msgid ""
+"WooCommerce Shipping Address Labels Print requires %sWooCommerce%s to be "
+"installed & activated!"
+msgstr ""
+"WooCommerce Shipping adresstickers Print vereist   %s WooCommerce% s worden "
+"geïnstalleerd en geactiveerd!"
+
+#: ../shipping_address_print.php:90 ../shipping_address_print.php:91
+msgid "Adderss Print"
+msgstr "adderss Print"
+
+#: ../shipping_address_print.php:157
+msgid "Print now"
+msgstr "nu afdrukken"
+
+#: ../shipping_address_print.php:394 ../shipping_address_print.php:395
+msgid "Order Address Labels"
+msgstr "Bestel adresstickers"
+
+#: ../shipping_address_print.php:403 ../shipping_address_print.php:418 ..
+#: shipping_address_print.php:419
+msgid "Print Shipping  Address Labels"
+msgstr "Print Verzenden adresstickers"
+
+#: ../shiping_setting.php:23
+msgid "WooCommerce Order address Print"
+msgstr "WooCommerce Bestel adres Print"
+
+#: ../shiping_setting.php:38
+msgid "Page layout preview"
+msgstr "Pagina-indeling voorvertoning"
+
+#: ../shiping_setting.php:64
+msgid "Template settings"
+msgstr "template instellingen"
+
+#: ../shiping_setting.php:71
+msgid "Paper format"
+msgstr "papier formaat"
+
+#: ../shiping_setting.php:79
+msgid "A4"
+msgstr "A4"
+
+#: ../shiping_setting.php:80
+msgid "Letter"
+msgstr "brief"
+
+#: ../shiping_setting.php:81
+msgid "Custom size (enter below)"
+msgstr "Aangepast formaat (vul hieronder in)"
+
+#: ../shiping_setting.php:90
+msgid "Width (mm):"
+msgstr "Breedte (mm):"
+
+#: ../shiping_setting.php:95
+msgid "Height (mm):"
+msgstr "Hoogte (mm):"
+
+#: ../shiping_setting.php:107
+msgid "Paper orientation"
+msgstr "Paper oriëntatie"
+
+#: ../shiping_setting.php:115
+msgid "Portrait"
+msgstr "portret"
+
+#: ../shiping_setting.php:116
+msgid "Landscape"
+msgstr "landschap"
+
+#: ../shiping_setting.php:123
+msgid "Columns"
+msgstr "columns"
+
+#: ../shiping_setting.php:137
+msgid "Rows"
+msgstr "rijen"
+
+#: ../shiping_setting.php:164
+msgid "Show Qr Code"
+msgstr "Toon Qr Code"
+
+#: ../shiping_setting.php:171
+msgid "This option enables QR Code Show On Print"
+msgstr "Deze optie maakt QR Code Show On Print"
+
+#: ../shiping_setting.php:178
+msgid "ECC"
+msgstr "ECC"
+
+#: ../shiping_setting.php:186
+msgid "L - smallest"
+msgstr "L - smallest"
+
+#: ../shiping_setting.php:187
+msgid "M"
+msgstr "M"
+
+#: ../shiping_setting.php:188
+msgid "Q"
+msgstr "Q"
+
+#: ../shiping_setting.php:189
+msgid "H - best"
+msgstr "H - best"
+
+#: ../shiping_setting.php:196
+msgid "Code Size"
+msgstr "code Size"
+
+#: ../shiping_setting.php:204
+msgid "1"
+msgstr "1"
+
+#: ../shiping_setting.php:205
+msgid "2"
+msgstr "2"
+
+#: ../shiping_setting.php:206
+msgid "3"
+msgstr "3"
+
+#: ../shiping_setting.php:207
+msgid "4"
+msgstr "4"
+
+#: ../shiping_setting.php:208
+msgid "5"
+msgstr "5"
+
+#: ../shiping_setting.php:209
+msgid "6"
+msgstr "6"
+
+#: ../shiping_setting.php:210
+msgid "7"
+msgstr "7"
+
+#: ../shiping_setting.php:211
+msgid "8"
+msgstr "8"
+
+#: ../shiping_setting.php:212
+msgid "9"
+msgstr "9"
+
+#: ../shiping_setting.php:213
+msgid "10"
+msgstr "10"
+
+#: ../shiping_setting.php:224
+msgid "Enable preview"
+msgstr "inschakelen voorvertoning"
+
+#: ../shiping_setting.php:231
+msgid "Open the address labels in a new browser tab instead of printing directly"
+msgstr ""
+"Open het adres labels in een nieuw tabblad browser in plaats van "
+"rechtstreeks afdrukken"
+
+#: ../shiping_setting.php:238
+msgid "Label contents"
+msgstr "inhoud label"
+
+#: ../shiping_setting.php:245
+msgid "Address/order data"
+msgstr "Adres / ordergegevens"
+
+#: ../shiping_setting.php:255
+msgid ""
+"You can use the following placeholders: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email], "
+"[billing_phone] & [order_number]"
+msgstr ""
+"U kunt de volgende plaatshouders gebruiken: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email] "
+"[billing_phone] & [order_number]"
+
+#: ../shiping_setting.php:261
+msgid "Remove empty lines"
+msgstr "Verwijder lege regels"
+
+#: ../shiping_setting.php:268
+msgid ""
+"Enable this option if you want to remove empty lines left over from empty "
+"address/placeholder replacements"
+msgstr ""
+"Schakel deze optie als u wilt verwijderen lege regels over van lege adres / "
+"placeholder vervangingen"
+
+#: ../shiping_setting.php:274
+msgid "Font size"
+msgstr "letter grootte"
+
+#: ../shiping_setting.php:299
+msgid "Address block width"
+msgstr "Adres blok breedte"
+
+#: ../shiping_setting.php:308
+msgid ""
+"Enter any value in cm, mm, px or in - use a dot (and not a comma!) as the "
+"decimal separator!"
+msgstr ""
+"Voer een willekeurige waarde in cm, mm, px of in - gebruik een punt (en niet "
+"een komma!) Als decimaalteken!"
+
+#: ../shiping_setting.php:314
+msgid "Export Doc"
+msgstr "export Doc"
+
+#: ../shiping_setting.php:321
+msgid "This option Doc File Export"
+msgstr "Deze optie Doc exporteren"
+
+#: ../shiping_setting.php:328
+msgid "Custom styles"
+msgstr "Aangepaste stijlen"
+
+#: ../shiping_setting.php:337
+msgid "Enter custom CSS styles for the address labels here"
+msgstr "Voer aangepaste CSS-stijlen voor het adres etiketten hier"
+
+msgid "New message"
+msgstr "nieuw bericht"

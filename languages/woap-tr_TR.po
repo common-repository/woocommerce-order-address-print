@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order address Print\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jul 06 2015 17:47:18 GMT+0530 (IST)\n"
+"PO-Revision-Date: Tue Jul 07 2015 20:09:51 GMT+0300 (GTB Standart Saati)\n"
+"Last-Translator: 1 <vaporsbazar@gmail.com>\n"
+"Language-Team: \n"
+"Language: Turkish\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: tr_TR\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ."
+
+#: ../class-wc-dependencies.php:43
+#, php-format
+msgid ""
+"WooCommerce Shipping Address Labels Print requires %sWooCommerce%s to be "
+"installed & activated!"
+msgstr ""
+"WooCommerce Teslimat Adresi Etiket Yazdırma eklentisinin çalışabilmesi için "
+"%sWooCommerce%s eklentisinin yüklenmiş ve etkinleştirilmiş olması "
+"gerekmektedir!"
+
+#: ../shipping_address_print.php:90 ../shipping_address_print.php:91
+msgid "Adderss Print"
+msgstr "Adres Yazdır"
+
+#: ../shipping_address_print.php:157
+msgid "Print now"
+msgstr "Yazdır"
+
+#: ../shipping_address_print.php:394 ../shipping_address_print.php:395
+msgid "Order Address Labels"
+msgstr "Sipariş Adresi Etiketleri"
+
+#: ../shipping_address_print.php:403 ../shipping_address_print.php:418 ..
+#: shipping_address_print.php:419
+msgid "Print Shipping  Address Labels"
+msgstr "Teslimat Adres Etiketlerini Yazdır"
+
+#: ../shiping_setting.php:23
+msgid "WooCommerce Order address Print"
+msgstr "WooCommerce Sipariş Adresi Yazdırma"
+
+#: ../shiping_setting.php:38
+msgid "Page layout preview"
+msgstr ""
+"Sayfa Düzeni\n"
+" \n"
+"Önizleme"
+
+#: ../shiping_setting.php:64
+msgid "Template settings"
+msgstr "Şablon Ayarları"
+
+#: ../shiping_setting.php:71
+msgid "Paper format"
+msgstr "Kağıt Formatı"
+
+#: ../shiping_setting.php:79
+msgid "A4"
+msgstr "A4"
+
+#: ../shiping_setting.php:80
+msgid "Letter"
+msgstr "Mektup"
+
+#: ../shiping_setting.php:81
+msgid "Custom size (enter below)"
+msgstr "Özel Boyut ( aşağıya girin)"
+
+#: ../shiping_setting.php:90
+msgid "Width (mm):"
+msgstr "Genişlik (mm):"
+
+#: ../shiping_setting.php:95
+msgid "Height (mm):"
+msgstr "Yükseklik (mm):"
+
+#: ../shiping_setting.php:107
+msgid "Paper orientation"
+msgstr "Kağıt Yönü"
+
+#: ../shiping_setting.php:115
+msgid "Portrait"
+msgstr "Dikey"
+
+#: ../shiping_setting.php:116
+msgid "Landscape"
+msgstr "Yatay"
+
+#: ../shiping_setting.php:123
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: ../shiping_setting.php:137
+msgid "Rows"
+msgstr "Satırlar"
+
+#: ../shiping_setting.php:164
+msgid "Show Qr Code"
+msgstr "QR Kodunu Göster"
+
+#: ../shiping_setting.php:171
+msgid "This option enables QR Code Show On Print"
+msgstr ""
+"Bu seçenek, yazdırma sırasında \"QR Kodunu Göster\" seçeneğinden "
+"etkinleştirilir"
+
+#: ../shiping_setting.php:178
+msgid "ECC"
+msgstr "ECC"
+
+#: ../shiping_setting.php:186
+msgid "L - smallest"
+msgstr "L - En Küçük\n"
+
+#: ../shiping_setting.php:187
+msgid "M"
+msgstr "M\n"
+
+#: ../shiping_setting.php:188
+msgid "Q"
+msgstr "Q"
+
+#: ../shiping_setting.php:189
+msgid "H - best"
+msgstr "H - En İyi"
+
+#: ../shiping_setting.php:196
+msgid "Code Size"
+msgstr "Kod Boyutu"
+
+#: ../shiping_setting.php:204
+msgid "1"
+msgstr "1"
+
+#: ../shiping_setting.php:205
+msgid "2"
+msgstr "2"
+
+#: ../shiping_setting.php:206
+msgid "3"
+msgstr "3"
+
+#: ../shiping_setting.php:207
+msgid "4"
+msgstr "4"
+
+#: ../shiping_setting.php:208
+msgid "5"
+msgstr "5"
+
+#: ../shiping_setting.php:209
+msgid "6"
+msgstr "6"
+
+#: ../shiping_setting.php:210
+msgid "7"
+msgstr "7"
+
+#: ../shiping_setting.php:211
+msgid "8"
+msgstr "8"
+
+#: ../shiping_setting.php:212
+msgid "9"
+msgstr "9"
+
+#: ../shiping_setting.php:213
+msgid "10"
+msgstr "10"
+
+#: ../shiping_setting.php:224
+msgid "Enable preview"
+msgstr "Önizlemeyi Etkinleştir"
+
+#: ../shiping_setting.php:231
+msgid "Open the address labels in a new browser tab instead of printing directly"
+msgstr "Doğrudan yazdırmak yerine adres etiketini tarayıcının yeni sekmesinde açar"
+
+#: ../shiping_setting.php:238
+msgid "Label contents"
+msgstr "Etiket İçeriği"
+
+#: ../shiping_setting.php:245
+msgid "Address/order data"
+msgstr "Adres / Sipariş Bilgisi"
+
+#: ../shiping_setting.php:255
+msgid ""
+"You can use the following placeholders: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email], "
+"[billing_phone] & [order_number]"
+msgstr ""
+"Aşağıdaki\n"
+" \n"
+"yer tutucuları\n"
+" \n"
+"kullanabilirsiniz: \n"
+"[shipping_address], [shipping_first_name], [shipping_last_name], \n"
+"[shipping_company], [shipping_address_1], [shipping_address_2], \n"
+"[shipping_city], [shipping_postcode], [shipping_country], \n"
+"[shipping_state], \n"
+"[billing_address], [billing_email], [billing_phone] & [order_number]"
+
+#: ../shiping_setting.php:261
+msgid "Remove empty lines"
+msgstr "Boş Satırları Kaldır"
+
+#: ../shiping_setting.php:268
+msgid ""
+"Enable this option if you want to remove empty lines left over from empty "
+"address/placeholder replacements"
+msgstr ""
+"Adres / yer tutucu değişiminden arta kalan boş satırları kaldırmak "
+"istiyorsanız bu seçeneği etkinleştirin"
+
+#: ../shiping_setting.php:274
+msgid "Font size"
+msgstr "Font Boyutu"
+
+#: ../shiping_setting.php:299
+msgid "Address block width"
+msgstr "Adres Blok Genişliği"
+
+#: ../shiping_setting.php:308
+msgid ""
+"Enter any value in cm, mm, px or in - use a dot (and not a comma!) as the "
+"decimal separator!"
+msgstr ""
+"cm, mm, px veya in olarak değerleri girin (ondalık ayırıcı olarak virgül "
+"yerine nokta kullanın!)"
+
+#: ../shiping_setting.php:314
+msgid "Export Doc"
+msgstr "Belgeyi Dışa Aktar"
+
+#: ../shiping_setting.php:321
+msgid "This option Doc File Export"
+msgstr "Bu seçenek metin belgesini dışarı aktarır"
+
+#: ../shiping_setting.php:328
+msgid "Custom styles"
+msgstr "Özel Stiller"
+
+#: ../shiping_setting.php:337
+msgid "Enter custom CSS styles for the address labels here"
+msgstr "Adres etiketi için özel CSS stillerini girin"
+
+msgid "New message"
+msgstr "Yeni Mesaj"

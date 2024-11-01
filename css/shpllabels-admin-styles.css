@@ -1,0 +1,41 @@
+.wclabels-settings {
+	float: left;
+	width: 500px;
+}
+
+.wclabels-preview {
+	float: left;
+	width: 435px;
+	margin-left: 50px;
+}
+
+.wclabels-preview table {
+	border-collapse: collapse;
+
+	margin-top: 32px;
+}
+
+.wclabels-preview table,
+.wclabels-preview td {
+	border: 1px solid black;
+	background-color: white;
+}
+
+.wclabels-settings table th:first-child {
+	width: 100px;
+}
+.qr_show
+{
+float:left;
+width:30%;
+}
+.qr_show img
+{
+width:100%;
+}
+.user-html a
+{
+	float: left;
+    width: 50%;
+	
+}

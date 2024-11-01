@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order address Print\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jul 06 2015 17:47:18 GMT+0530 (IST)\n"
+"PO-Revision-Date: Tue Jul 07 2015 12:18:11 GMT+0530 (IST)\n"
+"Last-Translator: admin <programmer6@dynamicdreamz.com>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: ru_RU"
+
+#: ../class-wc-dependencies.php:43
+#, php-format
+msgid ""
+"WooCommerce Shipping Address Labels Print requires %sWooCommerce%s to be "
+"installed & activated!"
+msgstr ""
+"WooCommerce адрес доставки Этикетки печати требуется %s WooCommerce %s "
+"должен быть установлен и активирован!"
+
+#: ../shipping_address_print.php:90 ../shipping_address_print.php:91
+msgid "Adderss Print"
+msgstr "Adderss печати"
+
+#: ../shipping_address_print.php:157
+msgid "Print now"
+msgstr "Распечатать предприятием"
+
+#: ../shipping_address_print.php:394 ../shipping_address_print.php:395
+msgid "Order Address Labels"
+msgstr "Заказать Адрес Этикетки"
+
+#: ../shipping_address_print.php:403 ../shipping_address_print.php:418 ..
+#: shipping_address_print.php:419
+msgid "Print Shipping  Address Labels"
+msgstr "Печать адрес доставки Этикетки"
+
+#: ../shiping_setting.php:23
+msgid "WooCommerce Order address Print"
+msgstr "WooCommerce Заказать адрес печати"
+
+#: ../shiping_setting.php:38
+msgid "Page layout preview"
+msgstr "Макет страницы просмотра"
+
+#: ../shiping_setting.php:64
+msgid "Template settings"
+msgstr "настройки шаблона"
+
+#: ../shiping_setting.php:71
+msgid "Paper format"
+msgstr "формат бумаги"
+
+#: ../shiping_setting.php:79
+msgid "A4"
+msgstr "A4"
+
+#: ../shiping_setting.php:80
+msgid "Letter"
+msgstr "письмо"
+
+#: ../shiping_setting.php:81
+msgid "Custom size (enter below)"
+msgstr "Пользовательский размер (введите ниже)"
+
+#: ../shiping_setting.php:90
+msgid "Width (mm):"
+msgstr "Ширина (мм):"
+
+#: ../shiping_setting.php:95
+msgid "Height (mm):"
+msgstr "Высота (мм):"
+
+#: ../shiping_setting.php:107
+msgid "Paper orientation"
+msgstr "ориентация бумаги"
+
+#: ../shiping_setting.php:115
+msgid "Portrait"
+msgstr "портрет"
+
+#: ../shiping_setting.php:116
+msgid "Landscape"
+msgstr "пейзаж"
+
+#: ../shiping_setting.php:123
+msgid "Columns"
+msgstr "Колонны"
+
+#: ../shiping_setting.php:137
+msgid "Rows"
+msgstr "Строки"
+
+#: ../shiping_setting.php:164
+msgid "Show Qr Code"
+msgstr "Показать QR Code"
+
+#: ../shiping_setting.php:171
+msgid "This option enables QR Code Show On Print"
+msgstr "Эта опция позволяет QR Code Показать на Печать"
+
+#: ../shiping_setting.php:178
+msgid "ECC"
+msgstr "ECC"
+
+#: ../shiping_setting.php:186
+msgid "L - smallest"
+msgstr "L - наименьшее"
+
+#: ../shiping_setting.php:187
+msgid "M"
+msgstr "M"
+
+#: ../shiping_setting.php:188
+msgid "Q"
+msgstr "Q"
+
+#: ../shiping_setting.php:189
+msgid "H - best"
+msgstr "Н - лучший"
+
+#: ../shiping_setting.php:196
+msgid "Code Size"
+msgstr "Код Размер"
+
+#: ../shiping_setting.php:204
+msgid "1"
+msgstr ""
+
+#: ../shiping_setting.php:205
+msgid "2"
+msgstr ""
+
+#: ../shiping_setting.php:206
+msgid "3"
+msgstr ""
+
+#: ../shiping_setting.php:207
+msgid "4"
+msgstr ""
+
+#: ../shiping_setting.php:208
+msgid "5"
+msgstr ""
+
+#: ../shiping_setting.php:209
+msgid "6"
+msgstr ""
+
+#: ../shiping_setting.php:210
+msgid "7"
+msgstr ""
+
+#: ../shiping_setting.php:211
+msgid "8"
+msgstr ""
+
+#: ../shiping_setting.php:212
+msgid "9"
+msgstr ""
+
+#: ../shiping_setting.php:213
+msgid "10"
+msgstr ""
+
+#: ../shiping_setting.php:224
+msgid "Enable preview"
+msgstr "Включить просмотр"
+
+#: ../shiping_setting.php:231
+msgid "Open the address labels in a new browser tab instead of printing directly"
+msgstr "Откройте адресные ярлыки в новой вкладке браузера вместо печати напрямую"
+
+#: ../shiping_setting.php:238
+msgid "Label contents"
+msgstr "содержание маркировки"
+
+#: ../shiping_setting.php:245
+msgid "Address/order data"
+msgstr "Адрес / Данные для заказа"
+
+#: ../shiping_setting.php:255
+msgid ""
+"You can use the following placeholders: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email], "
+"[billing_phone] & [order_number]"
+msgstr ""
+"Вы можете использовать следующие заполнители: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email] "
+"[billing_phone] и [order_number]"
+
+#: ../shiping_setting.php:261
+msgid "Remove empty lines"
+msgstr "Удалить пустые строки"
+
+#: ../shiping_setting.php:268
+msgid ""
+"Enable this option if you want to remove empty lines left over from empty "
+"address/placeholder replacements"
+msgstr ""
+"Включите эту опцию, если вы хотите, чтобы удалить пустые строки, оставшиеся "
+"от пустой адрес замен / заполнителей"
+
+#: ../shiping_setting.php:274
+msgid "Font size"
+msgstr "размер шрифта"
+
+#: ../shiping_setting.php:299
+msgid "Address block width"
+msgstr "Адрес ширина блока"
+
+#: ../shiping_setting.php:308
+msgid ""
+"Enter any value in cm, mm, px or in - use a dot (and not a comma!) as the "
+"decimal separator!"
+msgstr ""
+"Введите любое значение в см, мм, пикселей или в - использовать точку (и не "
+"запятая!) В качестве десятичного разделителя!"
+
+#: ../shiping_setting.php:314
+msgid "Export Doc"
+msgstr "Экспорт Док"
+
+#: ../shiping_setting.php:321
+msgid "This option Doc File Export"
+msgstr "Эта опция Экспорт Док файла"
+
+#: ../shiping_setting.php:328
+msgid "Custom styles"
+msgstr "Пользовательские стили"
+
+#: ../shiping_setting.php:337
+msgid "Enter custom CSS styles for the address labels here"
+msgstr "Введите пользовательские стили CSS для адреса этикетки здесь"
+
+msgid "New message"
+msgstr "новое сообщение"

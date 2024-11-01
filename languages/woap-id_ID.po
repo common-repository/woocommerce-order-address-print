@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order address Print\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jul 06 2015 17:47:18 GMT+0530 (IST)\n"
+"PO-Revision-Date: Tue Jul 07 2015 11:47:14 GMT+0530 (IST)\n"
+"Last-Translator: admin <programmer6@dynamicdreamz.com>\n"
+"Language-Team: \n"
+"Language: Indonesian\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: id_ID"
+
+#: ../class-wc-dependencies.php:43
+#, php-format
+msgid ""
+"WooCommerce Shipping Address Labels Print requires %sWooCommerce%s to be "
+"installed & activated!"
+msgstr ""
+"WooCommerce Pengiriman Alamat Label Cetak memerlukan %s WooCommerce %s untuk "
+"dipasang & diaktifkan!"
+
+#: ../shipping_address_print.php:90 ../shipping_address_print.php:91
+msgid "Adderss Print"
+msgstr "adderss Cetak"
+
+#: ../shipping_address_print.php:157
+msgid "Print now"
+msgstr "Cetak sekarang"
+
+#: ../shipping_address_print.php:394 ../shipping_address_print.php:395
+msgid "Order Address Labels"
+msgstr "Pesanan Alamat Label"
+
+#: ../shipping_address_print.php:403 ../shipping_address_print.php:418 ..
+#: shipping_address_print.php:419
+msgid "Print Shipping  Address Labels"
+msgstr "Cetak Pengiriman Alamat Label"
+
+#: ../shiping_setting.php:23
+msgid "WooCommerce Order address Print"
+msgstr "WooCommerce Orde alamat Cetak"
+
+#: ../shiping_setting.php:38
+msgid "Page layout preview"
+msgstr "Tata letak halaman pratinjau"
+
+#: ../shiping_setting.php:64
+msgid "Template settings"
+msgstr "pengaturan template"
+
+#: ../shiping_setting.php:71
+msgid "Paper format"
+msgstr "Format kertas"
+
+#: ../shiping_setting.php:79
+msgid "A4"
+msgstr "A4"
+
+#: ../shiping_setting.php:80
+msgid "Letter"
+msgstr "surat"
+
+#: ../shiping_setting.php:81
+msgid "Custom size (enter below)"
+msgstr "Custom size (isi di bawah)"
+
+#: ../shiping_setting.php:90
+msgid "Width (mm):"
+msgstr "Lebar (mm):"
+
+#: ../shiping_setting.php:95
+msgid "Height (mm):"
+msgstr "Tinggi (mm):"
+
+#: ../shiping_setting.php:107
+msgid "Paper orientation"
+msgstr "orientasi kertas"
+
+#: ../shiping_setting.php:115
+msgid "Portrait"
+msgstr "potret"
+
+#: ../shiping_setting.php:116
+msgid "Landscape"
+msgstr ""
+"\n"
+"pemandangan"
+
+#: ../shiping_setting.php:123
+msgid "Columns"
+msgstr "kolom"
+
+#: ../shiping_setting.php:137
+msgid "Rows"
+msgstr "baris"
+
+#: ../shiping_setting.php:164
+msgid "Show Qr Code"
+msgstr "Tampilkan Qr Kode"
+
+#: ../shiping_setting.php:171
+msgid "This option enables QR Code Show On Print"
+msgstr "Opsi ini memungkinkan QR Kode Show On Cetak"
+
+#: ../shiping_setting.php:178
+msgid "ECC"
+msgstr "ECC"
+
+#: ../shiping_setting.php:186
+msgid "L - smallest"
+msgstr "L - terkecil"
+
+#: ../shiping_setting.php:187
+msgid "M"
+msgstr "M"
+
+#: ../shiping_setting.php:188
+msgid "Q"
+msgstr "Q"
+
+#: ../shiping_setting.php:189
+msgid "H - best"
+msgstr "H - best"
+
+#: ../shiping_setting.php:196
+msgid "Code Size"
+msgstr "kode Ukuran"
+
+#: ../shiping_setting.php:204
+msgid "1"
+msgstr "1\n"
+
+#: ../shiping_setting.php:205
+msgid "2"
+msgstr "2"
+
+#: ../shiping_setting.php:206
+msgid "3"
+msgstr "3"
+
+#: ../shiping_setting.php:207
+msgid "4"
+msgstr "4"
+
+#: ../shiping_setting.php:208
+msgid "5"
+msgstr "5"
+
+#: ../shiping_setting.php:209
+msgid "6"
+msgstr "6"
+
+#: ../shiping_setting.php:210
+msgid "7"
+msgstr "7"
+
+#: ../shiping_setting.php:211
+msgid "8"
+msgstr "8"
+
+#: ../shiping_setting.php:212
+msgid "9"
+msgstr "9"
+
+#: ../shiping_setting.php:213
+msgid "10"
+msgstr "10"
+
+#: ../shiping_setting.php:224
+msgid "Enable preview"
+msgstr "aktifkan pratinjau"
+
+#: ../shiping_setting.php:231
+msgid "Open the address labels in a new browser tab instead of printing directly"
+msgstr "Buka label alamat di tab browser baru bukan mencetak langsung"
+
+#: ../shiping_setting.php:238
+msgid "Label contents"
+msgstr "isi label"
+
+#: ../shiping_setting.php:245
+msgid "Address/order data"
+msgstr "Alamat / data pesanan"
+
+#: ../shiping_setting.php:255
+msgid ""
+"You can use the following placeholders: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email], "
+"[billing_phone] & [order_number]"
+msgstr ""
+"Anda dapat menggunakan penampung berikut: [shipping_address], "
+"[shipping_first_name], [shipping_last_name], [shipping_company], "
+"[shipping_address_1], [shipping_address_2], [shipping_city], "
+"[shipping_postcode], [shipping_country], [shipping_state], [billing_email] , "
+"[billing_phone] & [ORDER_NUMBER]"
+
+#: ../shiping_setting.php:261
+msgid "Remove empty lines"
+msgstr "Hapus baris kosong"
+
+#: ../shiping_setting.php:268
+msgid ""
+"Enable this option if you want to remove empty lines left over from empty "
+"address/placeholder replacements"
+msgstr ""
+"Aktifkan opsi ini jika Anda ingin menghapus baris kosong yang tersisa dari "
+"kosong alamat / placeholder penggantian"
+
+#: ../shiping_setting.php:274
+msgid "Font size"
+msgstr "ukuran huruf"
+
+#: ../shiping_setting.php:299
+msgid "Address block width"
+msgstr "Alamat blok lebar"
+
+#: ../shiping_setting.php:308
+msgid ""
+"Enter any value in cm, mm, px or in - use a dot (and not a comma!) as the "
+"decimal separator!"
+msgstr ""
+"Masukkan nilai dalam cm, mm, px atau - menggunakan dot (dan bukan koma!) "
+"Sebagai pemisah desimal!"
+
+#: ../shiping_setting.php:314
+msgid "Export Doc"
+msgstr "ekspor Doc"
+
+#: ../shiping_setting.php:321
+msgid "This option Doc File Export"
+msgstr "Pilihan ini Doc Berkas Ekspor"
+
+#: ../shiping_setting.php:328
+msgid "Custom styles"
+msgstr "gaya kustom"
+
+#: ../shiping_setting.php:337
+msgid "Enter custom CSS styles for the address labels here"
+msgstr "Masukkan gaya CSS kustom untuk alamat label disini"
+
+msgid "New message"
+msgstr "pesan baru"
